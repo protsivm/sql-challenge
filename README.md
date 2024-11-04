@@ -11,4 +11,4 @@ Employee_data.sql --  table schemata logic file.
 Employee_analysis.sql -- queries logic file.
 
 
-cvs files are located in data folder. 
+csv files are located in data folder. 
